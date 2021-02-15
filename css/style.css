@@ -2,3 +2,29 @@
     margin: 0;
     padding: 0;
 }
+
+/*====================================
+        Header
+=====================================*/
+#header {
+    background-image: url(../img/banner.jpg);
+    height: 80vh;
+    background-size: cover;
+    position: center;
+}
+.navbar-nav li a {
+    float: right;
+    color: #fff !important;
+    text-transform: uppercase;
+}
+.navbar-brand img {
+    width: 150px;
+}
+.navbar-toggler {
+    border: none !important;
+    outline: none !important;
+}
+nav .fa-bars {
+    color: #fff;
+    font-size: 26px;
+}
