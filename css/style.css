@@ -54,10 +54,41 @@ nav .fa-bars {
     box-shadow: none;
 }
 
+/*====================================
+        About
+=====================================*/
+#about {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+#about col-md-6 {
+    padding: 20px 10px;
+}
+#about h3 {
+   margin: 30px auto;
+}
 
-
-
-
+/*====================================
+        Services
+=====================================*/
+#services {
+    background-color: #efefef;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+#services .col-md-4 {
+    padding: 20px;
+}
+#services .col-md-4 h4 {
+    padding: 5px;
+}
+#services .col-md-4 img {
+    width: 50px;
+}
+#services .col-md-4 p {
+    padding: 5px;
+    text-align: justify;
+}
 
 
 
