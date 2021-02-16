@@ -7,7 +7,7 @@
         Header
 =====================================*/
 #header {
-    background-image: url(../img/banner.jpg);
+    background-image: url(../img/banner_02.jpg);
     height: 80vh;
     background-size: cover;
     position: center;
@@ -17,10 +17,13 @@
     float: right;
     color: #fff !important;
     text-transform: uppercase;
+    margin-right: 20px;
+    text-align: center;
 }
 
 .navbar-brand img {
-    width: 150px;
+    width: 210px;
+    margin-left: 30px;
 }
 
 .navbar-toggler {
@@ -31,6 +34,7 @@
 nav .fa-bars {
     color: #fff;
     font-size: 26px;
+    margin-right: 20px;
 }
 
 /*====================================
